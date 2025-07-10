@@ -4,7 +4,7 @@ from datetime import datetime
 
 # Replace with your values
 account_name = "studentbackupfiles"
-account_key = "XJuuf1q1/mnyqx2kY97MxwVqapZzl3FfOI44ofZh/+yCPTtw6uXKcxzdyxf2zqtcYzRLCrj1CkW7+AStNRAkyA=="
+account_key = ""
 container_name = "backups"
 local_folder = "C:/Users/komal/Documents/"  
 
